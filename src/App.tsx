@@ -48,7 +48,7 @@ function App() {
             <img className="absolute inset-0 w-full h-full object-cover" src="https://avatars.githubusercontent.com/glauberperez" alt="profile" />
           </div>
           <div className="text-center p-10">
-            <h2 className="text-white font-medium font-sanfrancisco text-5xl md:text-6xl py-3">Glauber Perez</h2>
+            <h2 className="text-white font-medium font-sanfrancisco text-4xl md:text-6xl py-3">Glauber Perez</h2>
             <h3 className="text-white font-normal font-sanfrancisco text-2xl md:text-3xl py-2">Developer | Pentester</h3>
             <p className="text-white font-sanfrancisco text-md py-1 px-5 leading-8">
             I am a young developer passionate about technology and cybersecurity. 
